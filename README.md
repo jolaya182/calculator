@@ -1,0 +1,2 @@
+# calculator
+input a num
