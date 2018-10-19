@@ -11,6 +11,9 @@ const add = (num)=>{
 }
 
 //subtract
+const subtract = (num)=>{
+  calculator -  num
+}
 
 
 //multiply
