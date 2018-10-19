@@ -12,11 +12,16 @@ const add = (num)=>{
 
 //subtract
 const subtract = (num)=>{
-  calculator -  num
+  calculator -  num;
 }
 
 
 //multiply
 const multiply = (num)=>{
-  calculator * num
+  calculator * num;
+}
+
+//division
+const division = (num)=>{
+  calculator / num;
 }
