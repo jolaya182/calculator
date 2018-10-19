@@ -17,3 +17,6 @@ const subtract = (num)=>{
 
 
 //multiply
+const multiply = (num)=>{
+  calculator * num
+}
