@@ -27,3 +27,5 @@ const division = (num)=>{
 }
 
 //added abs
+
+//expo
