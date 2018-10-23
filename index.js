@@ -29,3 +29,6 @@ const division = (num)=>{
 //added abs
 
 //expo
+
+//function 1
+
