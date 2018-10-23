@@ -25,3 +25,5 @@ const multiply = (num)=>{
 const division = (num)=>{
   calculator / num;
 }
+
+//added abs
