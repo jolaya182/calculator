@@ -27,11 +27,26 @@ const division = (num)=>{
 }
 
 //added abs
+const abs = (num)=>{
+  Math.abs(num);
+}
 
-//expo
+// //expos
+// const =>{
+  
+// }
 
-//function 1
+// //function 1
+// const =>{
+  
+// }
 
-//function 2
+// //function 2
+// const =>{
+  
+// }
 
-//function 3
+// //function 3
+// const =>{
+  
+// }
