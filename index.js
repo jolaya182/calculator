@@ -42,9 +42,9 @@ const funct1 = (num)=>{
 }
 
 // //function 2
-// const =>{
-  
-// }
+const funct2 = (num)=>{
+ num + 2; 
+}
 
 // //function 3
 const funct3 = (num)=>{
