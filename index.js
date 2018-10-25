@@ -32,9 +32,9 @@ const abs = (num)=>{
 }
 
 // //expos
-// const =>{
-  
-// }
+ const expo = (num)=>{
+  Math.expo(num);
+ }
 
 // //function 1
 // const =>{
