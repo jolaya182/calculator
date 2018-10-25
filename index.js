@@ -35,11 +35,11 @@ const abs = (num)=>{
  const expo = (num)=>{
   Math.expo(num);
  }
-
-// //function 1
-// const =>{
-  
-// }
+ 
+//function 1
+const funct1 = (num)=>{
+  num + 1;
+}
 
 // //function 2
 // const =>{
