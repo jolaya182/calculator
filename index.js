@@ -47,6 +47,6 @@ const funct1 = (num)=>{
 // }
 
 // //function 3
-// const =>{
-  
-// }
+const funct3 = (num)=>{
+ num + 3; 
+}
